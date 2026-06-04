@@ -53,4 +53,4 @@ pnpm tauri build
 
 ## Licence
 
-À définir.
+[MIT](LICENSE)
