@@ -17,6 +17,14 @@ sudo usermod -aG input $USER
 # puis se déconnecter / reconnecter
 ```
 
+## Installation (Archlinux)
+
+Pour les utilisateurs d'Archlinux, un package `meowl-pet-bin` est disponible sur l'AUR. Vous pouvez l'installer avec votre AUR-helper favori (ici yay)
+
+```sh
+yay -S meowl-pet-bin
+```
+
 ## Build
 
 ```sh
